@@ -297,8 +297,7 @@ Dashboard Development
 8. Refresh the PivotTables when needed.
 
 ## 🖼️ Dashboard Screenshot
-
-![Bank Customer & Credit Card Analytics Dashboard](Dashboard Screenshot.png)
+![Bank Customer & Credit Card Analytics Dashboard](Dashboard%20Screenshot.png)
 
 ## 📁 Repository Structure
 
